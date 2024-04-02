@@ -326,7 +326,7 @@ a.nav-link:hover {
   border-top-right-radius: 0;
   border-bottom-left-radius: 4px;
   border-top-left-radius: 4px;
-  border-right: 3px solid #ef5350;
+  border-right: 3px solid #5fc416;
 }
 
 .rtl .timeline .event::before {
